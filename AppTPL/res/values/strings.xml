@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">AppTPL</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AppTPL</string>
+
+    <color name="black">#000000</color>
+
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="title_activity_route">Rutas e Itinerarios</string>
+
+</resources>
